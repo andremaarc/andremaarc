@@ -15,8 +15,7 @@
         <h3>Bem vindo! :)</h3>
         <p>Aqui você pode encontrar alguns dos meus projetos de estudos, geralmente voltados para o front-end web. Sinta-se livre para explorar os repósitorios.</p>
         <div align='center'>
-            <img width="44%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremaarc&layout=compact&langs_count=7&theme=noctis_minimus"/>  
-            <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=andremaarc&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+            <img width="90%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremaarc&layout=compact&langs_count=7&theme=noctis_minimus"/>  
         </div>
     </div>
   <div align='center'>&#129414; &#128077;</div>
